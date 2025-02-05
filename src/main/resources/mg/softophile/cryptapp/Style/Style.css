@@ -1,0 +1,20 @@
+.sub-frame {
+    -fx-background-radius: 20 ;
+}
+
+.button1 {
+    -fx-background-radius : 15 0 0 0 ;
+}
+
+.button2 {
+    -fx-background-radius : 0 15 0 0 ;
+}
+
+.button3 {
+    -fx-background-radius : 0 0 20 20 ;
+}
+
+.text-field {
+    -fx-background-radius: 10 ;
+    -fx-background-color: white ;
+}
